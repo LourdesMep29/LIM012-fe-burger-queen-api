@@ -1,6 +1,6 @@
 # Burger Queen - API con Node.js
 
-## Índice
+## Índice -----
 
 * [1. Preámbulo](#1-pre%C3%A1mbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
